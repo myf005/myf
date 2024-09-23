@@ -14,3 +14,10 @@
 |AdRules AdBlock List Plus（梯）|[订阅](https://adrules.yuwell.us.kg/adblock_plus.txt)|
 |cookie|[订阅](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)|
 |ADBlock 过滤器|[订阅](https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt)|
+# DNS过滤规则
+|规则|订阅|
+|:-|:-|
+|ADBlock DNS|[订阅](https://raw.nuaa.cf/217heidai/adblockfilters/main/rules/adblockdns.txt)|
+|AdRules DNS List|[订阅](https://adrules.yuwell.us.kg/dns.txt)|
+|GOODBYEADS|[订阅](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)|
+|混合规则|[订阅](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt)|
