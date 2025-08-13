@@ -17,7 +17,7 @@
 # DNS过滤规则
 |规则|订阅|
 |:-|:-|
-|ADBlock DNS|[订阅](https://raw.nuaa.cf/217heidai/adblockfilters/main/rules/adblockdns.txt)|
+|ADBlock DNS list|[https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockdnslite.txt)|
 |AdRules DNS List|[订阅](https://adrules.yuwell.us.kg/dns.txt)|
 |GOODBYEADS|[订阅](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)|
 |混合规则|[订阅](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt)|
